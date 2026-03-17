@@ -1,0 +1,54 @@
+body{
+    background-color:white;
+    padding: 20px;
+    font-family: sans-serif;
+}
+nav{
+    text-align: center;
+    margin-bottom: 20 px;
+}
+
+   
+
+h1{
+    text-align: center;
+
+
+
+}
+.site-header{
+    color: white;
+    padding: 15px 40pxs;
+    background-color:#3D84C7 ;
+    font-family: Arial, sans-serif;
+    width: 99%;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.nav-links a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+}
+
+footer{
+    padding: 15px 40px;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+     text-align: center;
+     margin-top: 8px;
+     border-radius: 8px;
+
+   
+}
+article{
+    box-shadow: 2px;
+}
+
+
+    
+
+
